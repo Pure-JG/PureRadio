@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rotator>
+
+  <panel>
+    <number>1</number>
+    <image>https://adabilities.org/wp-content/uploads/2023/01/Pure_Radio_Louisville_Logo_640x400px.png</image>
+    <url>https://www.pureradio.org/home/</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>2</number>
+    <image>https://adabilities.org/wp-content/uploads/2023/01/Pure_Radio_Huntington_Logo_640x400px.png</image>
+    <url>https://www.pureradio.org/home/</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>3</number>
+    <image>https://adabilities.org/wp-content/uploads/2023/01/Pure_Radio_Evansville_Logo_640x400px.png</image>
+    <url>https://www.pureradio.org/home/</url>
+    <redirect>n</redirect>
+  </panel>
+
+</rotator>
