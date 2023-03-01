@@ -4,23 +4,72 @@
 
   <panel>
     <number>1</number>
-    <image>https://adabilities.org/wp-content/uploads/2023/01/Pure_Radio_Louisville_Logo_640x400px.png</image>
-    <url>https://www.pureradio.org/home/</url>
+    <image>https://adabilities.org/wp-content/uploads/2023/03/Pure_Radio_App_Ads_640x400.png</image>
+    <url>https://livingontheedge.org</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
-    <image>https://adabilities.org/wp-content/uploads/2023/01/Pure_Radio_Huntington_Logo_640x400px.png</image>
-    <url>https://www.pureradio.org/home/</url>
+    <image>https://adabilities.org/wp-content/uploads/2023/03/Pure_Radio_App_Ads_640x4002.png</image>
+    <url>https://www.bobrussell.org</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>3</number>
-    <image>https://adabilities.org/wp-content/uploads/2023/01/Pure_Radio_Evansville_Logo_640x400px.png</image>
-    <url>https://www.pureradio.org/home/</url>
+    <image>https://adabilities.org/wp-content/uploads/2023/03/Pure_Radio_App_Ads_640x4003.png</image>
+    <url>https://www.davidjeremiah.org</url>
     <redirect>n</redirect>
   </panel>
 
+  <panel>
+    <number>4</number>
+    <image>https://adabilities.org/wp-content/uploads/2023/03/Pure_Radio_App_Ads_640x4004.png</image>
+    <url>https://gospelinlife.com</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>5</number>
+    <image>https://adabilities.org/wp-content/uploads/2023/03/Pure_Radio_App_Ads_640x4005.png</image>
+    <url>https://pastorrick.com</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>6</number>
+    <image>https://adabilities.org/wp-content/uploads/2023/03/Pure_Radio_App_Ads_640x4006.png</image>
+    <url>https://tonyevans.org</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>7</number>
+    <image>https://adabilities.org/wp-content/uploads/2023/03/Pure_Radio_App_Ads_640x4007.png</image>
+    <url>https://www.daryljones.org</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>8</number>
+    <image>https://adabilities.org/wp-content/uploads/2023/03/Pure_Radio_App_Ads_640x4008.png</image>
+    <url>https://andrewfarley.org</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>9</number>
+    <image>https://adabilities.org/wp-content/uploads/2023/03/Pure_Radio_App_Ads_640x4009.png</image>
+    <url>https://newlife.com</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>10</number>
+    <image>https://adabilities.org/wp-content/uploads/2023/03/Pure_Radio_App_Ads_640x40010.png</image>
+    <url>https://www.ltw.org</url>
+    <redirect>n</redirect>
+  </panel>
+  
 </rotator>
